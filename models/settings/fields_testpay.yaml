@@ -1,0 +1,9 @@
+fields:
+  base:
+    label: iamirnet.testpay::lang.testpay.description
+    type: section
+  testpay_description:
+    label: iamirnet.testpay::lang.testpay.testpay_description
+    span: auto
+    type: text
+    oc.commentPosition: ''
