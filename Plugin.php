@@ -50,7 +50,7 @@ class Plugin extends PluginBase
                 'label'       => 'iamirnet.testpay::lang.testpay.title',
                 'description' => 'iamirnet.testpay::lang.testpay.description',
                 'category'    => 'iamirnet.minimall::lang.settings.gateway.title',
-                'icon'        => 'icon-credit-card',
+                'icon'        => 'icon-cog',
                 'class'       => TestPaySettings::class,
                 'order'       => 700,
                 'permissions' => ['iamirnet.testpay.access_testpay']
